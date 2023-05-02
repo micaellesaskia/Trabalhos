@@ -1,0 +1,16 @@
+#produtos, #resto{
+    display: flex;
+    justify-content: space-around;
+}
+.eletronicos, .sobra{
+    justify-content: center;
+    align-items: center;
+    justify-content: flex-start;
+    text-align: center;
+    }
+#rest1, #rest2, #rest3, #rest4, #rest5{
+    height: 50px;
+    width: 100px;
+    border-radius: 5px;
+    border: solid black 2px;
+}
